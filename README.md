@@ -1,2 +1,3 @@
-# Quiz-App
+# Expense Calculator
+
 Simple React Js Project
