@@ -11,7 +11,7 @@ function AddTransaction() {
         const newTransaction={
             id:uuid(),
             text,
-            amount:amount
+            amount:+amount
         }
         additem(newTransaction)
     }
